@@ -1,4 +1,8 @@
-package subway.domain;
+package subway;
+
+import subway.domain.*;
+import subway.view.InputView;
+import subway.view.View;
 
 import java.util.Scanner;
 

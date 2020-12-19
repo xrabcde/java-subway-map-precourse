@@ -1,4 +1,7 @@
-package subway.domain;
+package subway.view;
+
+import subway.domain.Line;
+import subway.domain.LineRepository;
 
 import java.util.Scanner;
 import static subway.Application.startProgram;

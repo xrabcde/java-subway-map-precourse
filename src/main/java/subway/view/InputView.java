@@ -1,4 +1,6 @@
-package subway.domain;
+package subway.view;
+
+import subway.domain.Errors;
 
 import java.util.List;
 import java.util.Scanner;
